@@ -24,7 +24,7 @@ h1{
 		background-image: url(https://universoreverso.com.br/wp-content/uploads/2018/03/rick-and-morty.jpg);
 		color: black;
 		background-repeat: no-repeat;
-		background-size:125%
+		background-size:140%
 	}
 	h3{
 		color: #F8F8FF
@@ -39,7 +39,11 @@ h1{
 		width: 19%;
 		height: 360px;
 	}
-	#H2 div{
-		display: flex;
+	.H2{
 		padding: 50px
+		/*background-color:rgb(203,2,186,0.5);*/
+	} 
+	#div_video{
+		width: 500px
+		margin:auto;
 	}
